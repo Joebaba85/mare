@@ -1,6 +1,4 @@
-# mare
-sito mare libero
-
+# Mare Libero e Gratuito
 ---
 
 ## ⚖️ Temi Trattati
